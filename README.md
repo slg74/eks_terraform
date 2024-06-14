@@ -47,7 +47,6 @@ lb-svc   LoadBalancer   172.20.217.201   a9ea19b2f379b41a9a7efdf269cbffa4-961409
 
 Visit the EXTERNAL-IP url, port 8080
 
-![k8sbook.png](k8sbook.png)
-
-
 </pre>
+
+![k8sbook.png](k8sbook.png)
