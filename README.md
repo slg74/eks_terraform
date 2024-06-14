@@ -45,6 +45,9 @@ scottghome@scottgs-MBP deployments % kubectl get svc lb-svc
 NAME     TYPE           CLUSTER-IP       EXTERNAL-IP                                                              PORT(S)          AGE
 lb-svc   LoadBalancer   172.20.217.201   a9ea19b2f379b41a9a7efdf269cbffa4-961409687.us-east-2.elb.amazonaws.com   8080:32463/TCP   12s
 
-Visit the EXTERNAL-IP url, port 8080. 
+Visit the EXTERNAL-IP url, port 8080
+
+![k8sbook.png](k8sbook.png)
+
 
 </pre>
